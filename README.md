@@ -1,4 +1,4 @@
-# SafeGuard — Supervisor Dashboard
+# SafeGuard — Admin Dashboard
 
 A real-time web-based Supervisor Dashboard for monitoring sanitation workers deployed in manholes and sewer systems. Built as part of the Smart Safety and Assistance System for Solapur Municipal Corporation (SMC).
 
